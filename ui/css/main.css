@@ -1,0 +1,42 @@
+.menu{
+    width:1800px;
+    float:left;
+}
+.locators{
+    border:1px yellow solid;
+    margin:15px;
+}
+.locator{
+    border:1px green solid;
+    border-radius:10px;
+    display:inline-block;
+    font-size:20px;
+    margin:15px;
+    padding:12px;
+    padding-bottom:0px;
+}
+#l2{
+    margin-left:55px;
+}
+.containerd{
+    padding:15px;
+}
+.grid{
+    border:1px red solid;
+    width:70%;
+    display:inline-block;
+    height:750px;
+    float:left;
+}
+.info{
+    border:1px blue solid;
+    display:inline-block;
+    width: calc(30% - 15px);
+    margin-left:15px;
+    height:750px;
+    float:left;
+}
+.ff{
+    margin:50px;
+    margin-left:220px;
+}
